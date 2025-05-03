@@ -4,7 +4,7 @@ Dive into the world of data analytics with a complete end-to-end project focused
 
 Ideal for showcasing your **data analytics**, **visualization**, and **storytelling** skills to potential employers, clients, or as a portfolio project.
 
-![Olympic Dashboard Overview](./images/paris_olympics_dashboard.png)
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/67f8bf61-e556-49f5-8b1c-6aa92906a95f" />
 
 ---
 
@@ -80,9 +80,7 @@ The Power BI report consists of **4 main pages**, each tailored for specific ana
 
 | Athletes Page | Historical Trends |
 |---------------|-------------------|
-|<img width="563" alt="image" src="https://github.com/user-attachments/assets/7aae1a11-7adc-44cd-b55d-004b3d20d537" />
-| <img width="517" alt="image" src="https://github.com/user-attachments/assets/a0d7a428-648c-446f-b7f5-c4feaac1ffb5" />
-|
+|<img width="563" alt="image" src="https://github.com/user-attachments/assets/7aae1a11-7adc-44cd-b55d-004b3d20d537" />| <img width="517" alt="image" src="https://github.com/user-attachments/assets/a0d7a428-648c-446f-b7f5-c4feaac1ffb5" />|
 
 ---
 
