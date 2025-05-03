@@ -53,6 +53,13 @@ The Power BI report consists of **4 main pages**, each tailored for specific ana
 
 ---
 
+### 🛠️ Filter Buttons for Sport Selection
+
+Each page of the dashboard includes a dedicated filter button that allows users to dynamically filter data by sport. When clicked, the button reveals a slicer panel using Power BI bookmarks, enabling smooth filtering of visuals without overwhelming the layout. This enhances the user experience by providing focused analysis per sport across Overview, Country, Athletes, and Historical pages.
+
+
+---
+
 ## 🧰 Tools & Technologies Used
 
 | Tool/Tech      | Purpose                                      |
