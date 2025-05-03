@@ -2,7 +2,7 @@
 
 Dive into the world of data analytics with a complete end-to-end project focused on the **Paris 2024 Olympic Games**. This project walks you through building a dynamic and interactive Power BI dashboard using real Olympic data, enriched with **Python scripts**, **Figma design**, and **Power BI's advanced features**.
 
-Ideal for showcasing your **data analytics**, **visualization**, and **storytelling** skills to potential employers, clients, or as a portfolio project.
+
 
 <img width="560" alt="image" src="https://github.com/user-attachments/assets/67f8bf61-e556-49f5-8b1c-6aa92906a95f" />
 
@@ -70,7 +70,7 @@ Each page of the dashboard includes a dedicated filter button that allows users 
 | **Figma**      | Dashboard UI/UX design                       |
 | **Kaggle**     | Olympic dataset source                       |
 
-### ✅ Key Topics Covered
+
 
 ### ✅ Key Topics Covered
 
@@ -100,7 +100,7 @@ Each page of the dashboard includes a dedicated filter button that allows users 
 - Visual design using Figma and custom assets
 - Using DAX and slicers for deep filtering
 - Creating interactive maps and charts in Power BI
-- **Implementing dynamic sport filter buttons on all pages**
+- Implementing dynamic sport filter buttons on all pages
 - End-to-end project structure and documentation
 
 ---
