@@ -56,6 +56,7 @@ The Power BI report consists of **4 main pages**, each tailored for specific ana
 ### 🛠️ Filter Buttons for Sport Selection
 
 Each page of the dashboard includes a dedicated filter button that allows users to dynamically filter data by sport. When clicked, the button reveals a slicer panel using Power BI bookmarks, enabling smooth filtering of visuals without overwhelming the layout. This enhances the user experience by providing focused analysis per sport across Overview, Country, Athletes, and Historical pages.
+|<img width="511" alt="image" src="https://github.com/user-attachments/assets/9cbb3433-b81d-4d71-86a2-1585c3b26057" />|<img width="511" alt="image" src="https://github.com/user-attachments/assets/e143383f-0605-4ef5-b677-6fd84a6356ff" />|
 
 
 ---
@@ -71,11 +72,13 @@ Each page of the dashboard includes a dedicated filter button that allows users 
 
 ### ✅ Key Topics Covered
 
+### ✅ Key Topics Covered
+
 - DAX for dynamic calculations
 - Power Query for data cleaning
 - Custom visuals, tooltips, bookmarks
 - Responsive design & interactivity
-- Real-time data refresh pipeline (optional)
+- Buttons with action-based filtering panels using bookmarks
 
 ---
 
@@ -97,6 +100,7 @@ Each page of the dashboard includes a dedicated filter button that allows users 
 - Visual design using Figma and custom assets
 - Using DAX and slicers for deep filtering
 - Creating interactive maps and charts in Power BI
+- **Implementing dynamic sport filter buttons on all pages**
 - End-to-end project structure and documentation
 
 ---
